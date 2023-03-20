@@ -30,10 +30,11 @@ Employment
 
 Expertise
 ======
-* Fish biology and evolution
+* Fish biology, ecology and evolution
 * Population ecology
 * Tropical marine ecology
 * Experimental design and statistical modelling
+* Bayesian inference
 
 
 Research
