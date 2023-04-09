@@ -20,7 +20,7 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 **Smith, C.**, Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* 72, 22069.1-15.
 
-Chen, F., Wang, Y., He, J., **Smith, C.**, Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. *BMC Genomics* in press
+Chen, F., Wang, Y., He, J., **Smith, C.**, Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. *BMC Genomics* 24, 167.
 
 Li, F., **Smith, C.**,  Kawamura, K., Vetesnik, L., Arai, Y. & Reichard, M. (2022) Unusual egg shape diversity in bitterling fishes. *Ecology* 103, e3816.
 
