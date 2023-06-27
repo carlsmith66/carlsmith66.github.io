@@ -18,6 +18,8 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
+Audzijonytea, A., Mateos-González, F., Dainys, J., Gundelund, C., Skov, C., Tyrell DeWeber, J., Venturelli, P., Vienožinskis, V. & **Smith, C.** (2023) High-resolution app data reveal sustained increases in recreational fishing effort in Europe during and after COVID-19 lockdowns. *Royal Society Open Science* in press
+
 **Smith, C.**, Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* 72, 22069.1-15.
 
 Chen, F., Wang, Y., He, J., **Smith, C.**, Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. *BMC Genomics* 24, 167.
