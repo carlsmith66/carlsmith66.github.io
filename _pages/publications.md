@@ -7,18 +7,22 @@ author_profile: true
 
 ***Books***
 
-Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.
+**Smith, C.** & Warren, M. (2023) *GLMs in R for Ecology (Second edition)*. Amazon Publishing, Seattle.  
 
-**Smith, C.**, Uzal, A. & Warren, M. (2020) *Statistics in R for Biodiversity Conservation*. Amazon Publishing, Seattle.
+Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.  
 
-**Smith, C.** & Warren, M. (2019) *GLMs in R for Ecology*. Amazon Publishing, Seattle.
+**Smith, C.**, Uzal, A. & Warren, M. (2020) *Statistics in R for Biodiversity Conservation*. Amazon Publishing, Seattle.  
 
-Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford.
+**Smith, C.** & Warren, M. (2019) *GLMs in R for Ecology*. Amazon Publishing, Seattle.  
+
+Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford.  
 
 
 ***Papers***
 
 Audzijonytea, A., Mateos-González, F., Dainys, J., Gundelund, C., Skov, C., Tyrell DeWeber, J., Venturelli, P., Vienožinskis, V. & **Smith, C.** (2023) High-resolution app data reveal sustained increases in recreational fishing effort in Europe during and after COVID-19 lockdowns. *Royal Society Open Science* in press
+
+Arbačiauskas, K., **Smith, C.** & Audzijonyte, A. (2023) Does the Ice Age legacy end in Central Europe? The shrinking distributions of glacial relict crustaceans in Lithuania. *Aquatic Conservation* in press
 
 **Smith, C.**, Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* 72, 22069.1-15.
 
