@@ -22,7 +22,7 @@ Employment
 * Professor of Zoology, University of Łódź, Poland (2019-present)
 * Reader in Zoology, University of St Andrews, UK (2009-2019)
 * Lecturer in Zoology, University of Leicester, UK (2004-2009)
-* Lecturer in Marine Biology, Queen Mary College, London, UK (1998-2004)
+* Lecturer in Aquatic Biology, Queen Mary College, London, UK (1998-2004)
 * Postdoctoral Fellow, University of East Anglia, UK (1995-1998)
 * Assistant Professor, Khulna University, Bangladesh (1993-1995)
 * Scientific Officer, Plymouth Marine Laboratory, UK (1989-1990)
@@ -31,8 +31,8 @@ Employment
 Expertise
 ======
 * Fish biology, ecology and evolution
-* Population ecology
-* Tropical marine ecology
+* Animal behaviour
+* Evolutionary ecology
 * Experimental design and statistical modelling
 * Bayesian inference
 
@@ -40,7 +40,7 @@ Expertise
 Research
 ======
 * My research explores the diversity of fish mating systems, brood-parasite coevolution, and fish ecology
-* I have published 135 peer-reviewed scientific papers and 4 books (h-index 51 with >8,500 citations)
+* I have published 140 peer-reviewed scientific papers and 5 books (h-index 51 with >9,000 citations)
 * Supervised 18 PhD students
 * Supported 14 post-doctoral researchers
 * Received 18 research grants totalling €1.5 million
@@ -63,6 +63,6 @@ Service and leadership
 * Assistant Editor, *Journal of Fish Biology*
 * Society Secretary, Freshwater Group of the Linnaean Society of London
 * PhD examiner at Universities of Sheffield, Hull, Leicester, Nottingham, Aberystwyth, Padova
-* Fisheries consultant for UK Department for International Development, Government of Sri Lanka, Asian Development Bank, Food & Agriculture Organisation, and United Nations Development Programme
+* Fisheries consultant for the UK Department for International Development, Government of Sri Lanka, Asian Development Bank, Food & Agriculture Organisation, and United Nations Development Programme
 * Grant reviewing for research Councils in the UK (NERC, BBSRC), NC3Rs, Leverhulme Trust, Commonwealth Scholarships Commission; Czech Republic (Czech Grant Agency), Austria (FWF), Poland (NCN), and USA (NSF)
 * Curator, Bell-Pettigrew Museum of Natural History, University of St Andrews, UK
