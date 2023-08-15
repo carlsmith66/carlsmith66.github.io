@@ -20,9 +20,9 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
-Audzijonytea, A., Mateos-González, F., Dainys, J., Gundelund, C., Skov, C., Tyrell DeWeber, J., Venturelli, P., Vienožinskis, V. & **Smith, C.** (2023) High-resolution app data reveal sustained increases in recreational fishing effort in Europe during and after COVID-19 lockdowns. *Royal Society Open Science* in press
+Audzijonytea, A., Mateos-González, F., Dainys, J., Gundelund, C., Skov, C., Tyrell DeWeber, J., Venturelli, P., Vienožinskis, V. & **Smith, C.** (2023) High-resolution app data reveal sustained increases in recreational fishing effort in Europe during and after COVID-19 lockdowns. *Royal Society Open Science* 10, 230408.
 
-Arbačiauskas, K., **Smith, C.** & Audzijonyte, A. (2023) Does the Ice Age legacy end in Central Europe? The shrinking distributions of glacial relict crustaceans in Lithuania. *Aquatic Conservation* in press
+Audzijonyte, A., Arbačiauskas, K. & **Smith, C.** (2023) Does the Ice Age legacy end in Central Europe? The shrinking distributions of glacial relict crustaceans in Lithuania. *Aquatic Conservation* doi.org/10.1002/aqc.4001
 
 **Smith, C.**, Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* 72, 22069.1-15.
 
