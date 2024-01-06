@@ -22,7 +22,7 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 **Smith, C.** & Spence, R. (2024) Female mate choice in zebrafish is based on male compatibility. *Zebrafish* (in press)
 
-Halabowski1, D., Reichard, M., Pyrzanowski, K, Zięba,G., Grabowska, J. **Smith, C.** & Przybylski, M. (2024) The depressed river mussel *Pseudanodonta complanata* as an
+Halabowski, D., Reichard, M., Pyrzanowski, K, Zięba,G., Grabowska, J. **Smith, C.** & Przybylski, M. (2024) The depressed river mussel *Pseudanodonta complanata* as an
 occasional host for the European bitterling *Rhodeus amarus*. *Knowledge & Management of Aquatic Ecosystems* (in press)
 
 Barber, I., Hirst, A.G. & **Smith, C.** (2023) The challenges faced by fish in a dynamic world. *Journal of Fish Biology* 103, 749-751.
