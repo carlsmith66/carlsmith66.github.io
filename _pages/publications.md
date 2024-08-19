@@ -7,6 +7,8 @@ author_profile: true
 
 ***Books***
 
+**Smith, C.** & Warren, M. (2024) *Data Visualisation in R for Ecologists*. Amazon Publishing, Seattle.  
+
 **Smith, C.** & Warren, M. (2023) *GLMs in R for Ecology (Second edition)*. Amazon Publishing, Seattle.  
 
 Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.  
@@ -20,10 +22,14 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
-**Smith, C.** & Spence, R. (2024) Female mate choice in zebrafish is based on male compatibility. *Zebrafish* (in press)
+Anil, A.N., Mehdi, I., Douda, K., **Smith, C.** & Reichard, M. (2024) Reciprocal transplant experiments demonstrate a dynamic coevolutionary relationship between parasitic mussel larvae and bitterling fishes. *Freshwater Biology* (accepted)
+
+Kok, P.J.R., Broholm, T.L., van Doorn, L. Fiorillo, B.F. & **Smith, C.** (2024) Lost in space and time: robust demography and enhanced resilience buffer adverse environmental effects in a highly isolated and sedentary pre-Pleistocene landscape vertebrate. *BMC Ecology & Evolution* (accepted)
+
+Marszał, L. & **Smith, C.** (2024) Ecological predictors of the distribution of the endangered Spirlin (*Alburnoides bipunctatus*). *Ecological Informatics* 82, 102726.
 
 Halabowski, D., Reichard, M., Pyrzanowski, K, Zięba,G., Grabowska, J. **Smith, C.** & Przybylski, M. (2024) The depressed river mussel *Pseudanodonta complanata* as an
-occasional host for the European bitterling *Rhodeus amarus*. *Knowledge & Management of Aquatic Ecosystems* (in press)
+occasional host for the European bitterling *Rhodeus amarus*. *Knowledge & Management of Aquatic Ecosystems* 425, 3.
 
 Barber, I., Hirst, A.G. & **Smith, C.** (2023) The challenges faced by fish in a dynamic world. *Journal of Fish Biology* 103, 749-751.
 
