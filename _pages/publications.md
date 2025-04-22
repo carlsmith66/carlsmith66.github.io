@@ -22,6 +22,10 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
+Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) The impact of invasive *Sinanodonta woodiana* and mussel macroparasites on the egg distribution of parasitic bitterling fish in host mussels. *Scientific Reports* 15, 9417.
+
+**Smith, C.** & Spence, R. (2025) Female mate choice in zebrafish is based on male compatibility. *Journal of Vertebrate Biology* 74, 25115.
+
 Anil, A.N., Mehdi, I., Douda, K., **Smith, C.** & Reichard, M. (2024) Reciprocal transplant experiments demonstrate a dynamic coevolutionary relationship between parasitic mussel larvae and bitterling fishes. *Freshwater Biology* 69, 1525-1536.
 
 Kok, P.J.R., Broholm, T.L., van Doorn, L. Fiorillo, B.F. & **Smith, C.** (2024) Lost in space and time: robust demography and enhanced resilience buffer adverse environmental effects in a highly isolated and sedentary pre-Pleistocene landscape vertebrate. *BMC Ecology & Evolution* 24, 125.
