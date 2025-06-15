@@ -17,7 +17,7 @@ Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publi
 
 **Smith, C.** & Warren, M. (2019) *GLMs in R for Ecology*. Amazon Publishing, Seattle.  
 
-Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford. [PDF](https://github.com/carlsmith66/carlsmith66.github.io/blob/master/files/RBOTF.pdf)
+Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford. [PDF](https://downgit.github.io/#/home?url=https://github.com/carlsmith66/carlsmith66.github.io/blob/master/files/RBOTF.pdf)
 
 
 ***Papers***
