@@ -22,7 +22,7 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
-Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) The impact of invasive *Sinanodonta woodiana* and mussel macroparasites on the egg distribution of parasitic bitterling fish in host mussels. *Scientific Reports* 15, 9417. [PDF](carlsmith66.github.io/files/paper1.pdf)
+Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) The impact of invasive *Sinanodonta woodiana* and mussel macroparasites on the egg distribution of parasitic bitterling fish in host mussels. *Scientific Reports* 15, 9417. [PDF](carlsmith66/carlsmith66.github.io/files/paper1.pdf)
 
 **Smith, C.** & Spence, R. (2025) Female mate choice in zebrafish is based on male compatibility. *Journal of Vertebrate Biology* 74, 25015.
 
