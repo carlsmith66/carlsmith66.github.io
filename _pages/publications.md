@@ -17,12 +17,12 @@ Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publi
 
 **Smith, C.** & Warren, M. (2019) *GLMs in R for Ecology*. Amazon Publishing, Seattle.  
 
-Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford.  
+Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford. [PDF] 
 
 
 ***Papers***
 
-Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) The impact of invasive *Sinanodonta woodiana* and mussel macroparasites on the egg distribution of parasitic bitterling fish in host mussels. *Scientific Reports* 15, 9417. [PDF](https://github.com/carlsmith66/carlsmith66.github.io/blob/master/files/paper1.pdf)
+Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) The impact of invasive *Sinanodonta woodiana* and mussel macroparasites on the egg distribution of parasitic bitterling fish in host mussels. *Scientific Reports* 15, 9417. 
 
 **Smith, C.** & Spence, R. (2025) Female mate choice in zebrafish is based on male compatibility. *Journal of Vertebrate Biology* 74, 25015.
 
