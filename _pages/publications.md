@@ -22,6 +22,10 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
+Chen, F., Wang, Y., Yi, T., **Smith, C.**, Zheng, L., Qin, X., Lu, W., Li, H., Su, Y., Gao, X. & Kong, W. (2025) Single-cell atlas of the mandarin fish ovary reveals the trajectories of oogenesis and its immune microenvironment development. *Aquaculture* 612, 743247.
+
+Halabowski, D., Anil, A. N., Zięba, G., Pyrzanowski, K., Grabowska, J., **Smith, C.**, & Reichard, M. (2025) Temporal dynamics of biological invasions: Perception of host quality differs between native and alien host species. *Ecology and Evolution* 15, e72270.
+
 Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) The impact of invasive *Sinanodonta woodiana* and mussel macroparasites on the egg distribution of parasitic bitterling fish in host mussels. *Scientific Reports* 15, 9417. 
 
 **Smith, C.** & Spence, R. (2025) Female mate choice in zebrafish is based on male compatibility. *Journal of Vertebrate Biology* 74, 25015.
