@@ -22,6 +22,8 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
+Szczerkowska-Majchrzak, E., Dukowska, M., Leszczyńska, J. & **Smith, C.** (2025) Predictors of chironomid abundance following dam removal. *The European Zoological Journal* (in press)
+
 Chen, F., Wang, Y., Yi, T., **Smith, C.**, Zheng, L., Qin, X., Lu, W., Li, H., Su, Y., Gao, X. & Kong, W. (2025) Single-cell atlas of the mandarin fish ovary reveals the trajectories of oogenesis and its immune microenvironment development. *Aquaculture* 612, 743247.
 
 Halabowski, D., Anil, A. N., Zięba, G., Pyrzanowski, K., Grabowska, J., **Smith, C.**, & Reichard, M. (2025) Temporal dynamics of biological invasions: Perception of host quality differs between native and alien host species. *Ecology and Evolution* 15, e72270.
