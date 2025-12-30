@@ -7,7 +7,7 @@ author_profile: true
 
 ***Books***
 
-**Smith, C.** & Warren, M. (2026) An Introduction to R for Ecologists. Amazon Publishing, Seattle.
+**Smith, C.** & Warren, M. (2026) *An Introduction to R for Ecologists*. Amazon Publishing, Seattle.
 
 **Smith, C.** & Warren, M. (2024) *Data Visualisation in R for Ecologists*. Amazon Publishing, Seattle.  
 
@@ -24,7 +24,7 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
-**Smith, C.**, Spence, R., Szczerkowska-Majchrzak, E., Żegota, D. & Zięba, G. (submitted) Sexual isolation among ecotypes of the three-spined stickleback. *Zoology Letters*
+**Smith, C.**, Spence, R., Szczerkowska-Majchrzak, E., Żegota, D. & Zięba, G. (submitted) Sexual isolation among ecotypes of the three-spined stickleback. *Zoological Letters*
 
 Szczerkowska-Majchrzak, E., Dukowska, M., Leszczyńska, J. & **Smith, C.** (2025) Predictors of chironomid abundance following dam removal. *The European Zoological Journal* 92, 1413-1428.
 
