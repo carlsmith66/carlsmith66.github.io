@@ -7,6 +7,8 @@ author_profile: true
 
 ***Books***
 
+**Smith, C.** & Warren, M. (2026) An Introduction to R for Ecologists. Amazon Publishing, Seattle.
+
 **Smith, C.** & Warren, M. (2024) *Data Visualisation in R for Ecologists*. Amazon Publishing, Seattle.  
 
 **Smith, C.** & Warren, M. (2023) *GLMs in R for Ecology (Second edition)*. Amazon Publishing, Seattle.  
@@ -22,9 +24,11 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
-Szczerkowska-Majchrzak, E., Dukowska, M., Leszczyńska, J. & **Smith, C.** (2025) Predictors of chironomid abundance following dam removal. *The European Zoological Journal* (in press)
+**Smith, C.**, Spence, R., Szczerkowska-Majchrzak, E., Żegota, D. & Zięba, G. (submitted) Sexual isolation among ecotypes of the three-spined stickleback. *Zoology Letters*
 
-Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) Distribution of parasitic larvae of non-native *Sinanodonta woodiana* on fish hosts across an invasion gradient. *Neobiota* (in press)
+Szczerkowska-Majchrzak, E., Dukowska, M., Leszczyńska, J. & **Smith, C.** (2025) Predictors of chironomid abundance following dam removal. *The European Zoological Journal* 92, 1413-1428.
+
+Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2025) Distribution of parasitic larvae of non-native *Sinanodonta woodiana* on fish hosts across an invasion gradient. *Neobiota* 103, 149-164.
 
 Chen, F., Wang, Y., Yi, T., **Smith, C.**, Zheng, L., Qin, X., Lu, W., Li, H., Su, Y., Gao, X. & Kong, W. (2025) Single-cell atlas of the mandarin fish ovary reveals the trajectories of oogenesis and its immune microenvironment development. *Aquaculture* 612, 743247.
 
