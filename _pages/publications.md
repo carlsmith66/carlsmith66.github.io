@@ -24,9 +24,13 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
-Michalska-Madej, J., Janik-Superson, K., Zajac, B., Krupinski, M., **Smith, C.**, Seweryn, M. & Ibáñez, M. (2026) Universes within universes: microbiome diversity associated with different body parts of the sand lizard (*Lacerta agilis*). *PeerJ* DOI: 10.7717/peerj.21061
+Anil, A.N., Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2026) Variation in resistance and survival of the European bitterling fish across a gradient of Sinanodonta woodiana expansion. *Oecologia* (in press).
 
-**Smith, C.**, Spence, R., Szczerkowska-Majchrzak, E., Żegota, D. & Zięba, G. (2026) Nest architecture and male aggression drive sexual isolation between three-spined stickleback ecotypes. *Zoological Letters* DOI: 10.1186/s40851-026-00263-w
+**Smith, C.** & Reichard, M. (2026) How to review a manuscript. *Journal of Vertebrate Biology* 75, 26064.
+
+Michalska-Madej, J., Janik-Superson, K., Zajac, B., Krupinski, M., **Smith, C.**, Seweryn, M. & Ibáñez, M. (2026) Universes within universes: microbiome diversity associated with different body parts of the sand lizard (*Lacerta agilis*). *PeerJ* 14, e21061
+
+**Smith, C.**, Spence, R., Szczerkowska-Majchrzak, E., Żegota, D. & Zięba, G. (2026) Nest architecture and male aggression drive sexual isolation between three-spined stickleback ecotypes. *Zoological Letters* 12, 5.
 
 Szczerkowska-Majchrzak, E., Dukowska, M., Leszczyńska, J. & **Smith, C.** (2025) Predictors of chironomid abundance following dam removal. *The European Zoological Journal* 92, 1413-1428.
 
