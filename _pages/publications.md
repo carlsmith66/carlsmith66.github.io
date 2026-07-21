@@ -24,7 +24,7 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 ***Papers***
 
-Anil, A.N., Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2026) Variation in resistance and survival of the European bitterling fish across a gradient of Sinanodonta woodiana expansion. *Oecologia* (in press).
+Anil, A.N., Halabowski, D., Pyrzanowski, K, Zięba, G., Grabowska, J., Przybylski, M., **Smith, C.** & Reichard, M. (2026) Variation in resistance and survival of the European bitterling fish across a gradient of *Sinanodonta woodiana* expansion. *Oecologia* (in press).
 
 **Smith, C.** & Reichard, M. (2026) How to review a manuscript. *Journal of Vertebrate Biology* 75, 26064.
 
