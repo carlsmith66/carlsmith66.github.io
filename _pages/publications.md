@@ -26,7 +26,7 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 **Smith, C.** (2026) Density-dependent interference reduces territorial male success in bitterling. *Behavioral Ecology* (accepted)
 
-**Smith, C.**, Szczerkowska-Majchrzak, E. & Zięba, G. (2026). The role of female reproductive fluid in mediating reproductive isolation between ecotypes of the three-spined stickleback. *Zoological Letters* (in press).
+**Smith, C.**, Szczerkowska-Majchrzak, E. & Zięba, G. (2026). The role of female reproductive fluid in mediating reproductive isolation between ecotypes of the three-spined stickleback. *Zoological Letters* doi.org/10.1186/s40851-026-00274-7.
 
 Marszał, L., **Smith, C.**, Janic, B., Halabowski, D., Pietraszewski, D., Pyrzanowski, K., Tybulczuk, S., Zięba, G. & Kotusz, J. (2026) Impact of a major flood event on riverine fish community composition. *Journal of Environmental Management* 415, 130726.
 
