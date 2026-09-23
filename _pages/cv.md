@@ -40,12 +40,12 @@ Expertise
 Research
 ======
 * My research explores the diversity of fish mating systems, brood-parasite coevolution, and fish ecology
-* I have published 150 peer-reviewed scientific articles and 6 books (h-index 53 with >10,000 citations)
+* I have published 160 peer-reviewed scientific articles and 7 books (h-index 58 with >11,000 citations)
 * Supervised 18 PhD students
 * Supported 14 post-doctoral researchers
-* Received 19 research grants totalling >€1.5 million
+* Received 20 research grants totalling >€2 million
 * Presented 7 plenary and keynote lectures and >60 invited seminars and conference talks
-* Organiser/co-organiser of 7 international conferences
+* Organiser/co-organiser of 8 international conferences
 
 
 Teaching
